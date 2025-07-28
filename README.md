@@ -16,7 +16,7 @@ We aim to reduce the confusion and delays that happen when patients go from one 
 repeating tests, and hospitals will save time and resources. Most importantly, people will receive more consistent and effective care across the country.
 
 # Planned Solution:- 
-We’re building a mobile app that connects patient medical records to their Fayda ID, creating a digital health profile that moves with the person—no matter where they go. Health professionals will be able 
+We’re building a mobile app that connects patient medical records to their Fayda ID, creating a digital health profile that moves with the person no matter where they go. Health professionals will be able 
 to quickly pull up a patient’s history using their Fayda number, making it easier to understand past treatments, medications, and diagnoses. The app will be simple, secure, and usable even in low-resource settings.
 
 # Role of Fayda in HealthTech:-
